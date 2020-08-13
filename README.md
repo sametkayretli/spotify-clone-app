@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is based on https://github.com/CleverProgrammers/spotify-clone/
+
+## To install dependecies
+
+Material UI: npm i @material-ui/core
+             npm i @material-ui/icons
+Spotify Web API: npm i spotify-web-api-js
+                 https://github.com/JMPerez/spotify-web-api-js
+
 ## Available Scripts
 
 In the project directory, you can run:
